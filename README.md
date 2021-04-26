@@ -1,4 +1,3 @@
 # ici
 ici - app to save picture from Google Maps places
-Test
-Test 2
+This branch is Martin's tutorial work and results
